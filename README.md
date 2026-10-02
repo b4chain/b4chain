@@ -93,12 +93,12 @@ Building decentralized money, NFTs, and lending protocols — secured, gas-optim
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=b4chain&show_icons=true&theme=react-dark&rank_icon=github&hide_border=true&include_all_commits=true&count_private=true" alt="Sohail's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4chain&layout=compact&theme=react-dark&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=b4chain&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&include_all_commits=true" alt="Sohail's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4chain&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b4chain&theme=react-dark&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b4chain&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
 ---
