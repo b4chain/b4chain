@@ -2,7 +2,7 @@
 
 # Hi, I'm Sohail 👋
 
-**Blockchain Developer — Solidity · Anchor/Rust · AI Agents · Cloud**
+**Blockchain Developer — Solidity · Anchor/Rust · AI Agents On-Chain**
 
 Building decentralized money, NFTs, and lending protocols — secured, gas-optimized, and deployed on real networks.
 
@@ -12,10 +12,10 @@ Building decentralized money, NFTs, and lending protocols — secured, gas-optim
 [![Foundry](https://img.shields.io/badge/Foundry-FFDB1C?style=flat-square&logo=foundry&logoColor=white)](https://getfoundry.sh)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
 [![Anchor](https://img.shields.io/badge/Anchor-14F195?style=flat-square&logo=anchor&logoColor=black)](https://www.anchor-lang.com)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Hardhat](https://img.shields.io/badge/Hardhat-313131?style=flat-square&logo=hardhat&logoColor=white)](https://hardhat.org)
+[![Chainlink](https://img.shields.io/badge/Chainlink-2A5ADA?style=flat-square&logo=chainlink&logoColor=white)](https://chain.link)
+[![LayerZero](https://img.shields.io/badge/LayerZero-000000?style=flat-square&logo=layerzero&logoColor=white)](https://layerzero.network)
+[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5A67?style=flat-square&logo=openzeppelin&logoColor=white)](https://openzeppelin.com)
 
 [Portfolio](https://numericsouls.com) · [Twitter](https://twitter.com/t9fiction) · [Email](mailto:sohail.sohailishaq@gmail.com)
 
@@ -85,8 +85,10 @@ Building decentralized money, NFTs, and lending protocols — secured, gas-optim
 **AI Agents on-chain**
 - LangGraph agent orchestration for natural-language on-chain operations
 
-**Cloud & DevOps**
-- AWS · GCP · Azure · Docker · Kubernetes · Kafka
+**Protocols & Standards**
+- ERC-20 / ERC-721 / ERC-1155 · SPL Token · Token-2022 · EIP-2612 permits
+- Uniswap V2/V3-style AMMs, lending markets, staking and vesting systems
+- Foundry, Hardhat · unit, fuzz, fork and invariant testing
 
 ---
 
